@@ -1,4 +1,3 @@
-const consoleInput = prompt("Enter Speed");
 
 function speedDetector(speed) {
   const speedLimit = 70;
@@ -17,6 +16,8 @@ function speedDetector(speed) {
     }
   }
 }
-console.log(speedDetector(90));
+// Prompt the user for input
+const consoleInput = prompt("Enter Speed");
+console.log(speedDetector());
 
 alert(`your demerit Points:${demeritPoints}`);
