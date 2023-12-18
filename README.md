@@ -85,3 +85,10 @@ NB: run the following commands after every challeged is commitd;
 1.git add .
 2. git commit -m "Done"
 3. git push
+
+Resources:
+- https://www.aren.co.ke/payroll/taxrates.htm
+
+https://www.aren.co.ke/payroll/taxrates.htm
+
+www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
