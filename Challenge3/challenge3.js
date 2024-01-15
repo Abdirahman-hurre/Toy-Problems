@@ -87,7 +87,7 @@ function calculateNetSalary(basicSalary, benefits) {
   }
   
   // Test Case
-  const basicSalary = 25000;n
+  const basicSalary = 25000;
   const benefits = 1000;
   
   const salaryDetails = calculateNetSalary(basicSalary, benefits);

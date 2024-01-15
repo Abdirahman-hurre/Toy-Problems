@@ -18,3 +18,4 @@ function promptFunc(marks) {
 
 const grade = promptFunc(parseInt(consoleInput));
 alert(`your student marks: ${consoleInput}\n Grade: ${grade}`);
+

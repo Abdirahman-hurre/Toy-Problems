@@ -90,5 +90,3 @@ Resources:
 - https://www.aren.co.ke/payroll/taxrates.htm
 
 https://www.aren.co.ke/payroll/taxrates.htm
-
-www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
